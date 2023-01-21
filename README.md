@@ -1,4 +1,4 @@
-# `MAPTESTINGTOOL` `🗺`
+# `NWEATESTINGTOOL` `🗺`
 ## `CAPABILITIES` `📜`
 ```
 * Student Scraper
