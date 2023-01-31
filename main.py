@@ -76,7 +76,7 @@ else:
                                        sessionPass,
                                        data.json()['clientTestSessionDo']['testSessionId'],
                                        student.get('assignedTest').get('testName') if student.get('assignedTest').get('testName') != None else config['manual_test_name'],
-                                       student['userId'],
+                                       student['studentId'],
                                        auth
                              )
 
