@@ -1,4 +1,4 @@
-# `NWEATESTINGTOOL` `🗺` (Broken, Fixing Later)
+# `NWEATESTINGTOOL` `🗺` `[BROKEN]`
 ## `CAPABILITIES` `📜`
 ```
 * Student Scraper
